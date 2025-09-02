@@ -10,7 +10,7 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+<a href="www.linkedin.com/in/rayna-manchanda/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40"/>
 </a>
 <a href="https://github.com/RaynaManchanda" target="_blank">
