@@ -2,11 +2,11 @@
 <h3 align="center">BTech CSE Student | Aspiring Software Developer</h3>
 
 ### 👩‍💻 About Me:
-- 🎓 I’m a **BTech Computer Science Engineering student** passionate about coding and problem-solving.  
-- 💻 Skilled in **C, Python, HTML, CSS, JavaScript, SQL**.  
-- 🚀 Currently learning **Java** and **Data Structures & Algorithms (DSA)** to strengthen my programming foundation.  
-- 🌱 Interested in **Web Development, Software Engineering, and Data Analytics**.  
-- ✨ Always curious to learn new technologies and contribute to meaningful projects.  
+- I’m a **BTech Computer Science Engineering student** passionate about coding and problem-solving.  
+- Skilled in **C, Python, HTML, CSS, JavaScript, SQL**.  
+- Currently learning **Java** and **Data Structures & Algorithms (DSA)** to strengthen my programming foundation.  
+- Interested in **Web Development, Software Engineering, and Data Analytics**.  
+- Always curious to learn new technologies and contribute to meaningful projects.  
 
 ### 🌐 Connect with me:
 <p align="left">
